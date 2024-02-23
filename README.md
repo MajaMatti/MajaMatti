@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matti
-- 👀 I’m interested in IoT, IIoT, Industrial Automation, LED-programming, DAQ hw & sw, sensordevelopment, ML, MCs, Softwaretesting   
+- 👀 I’m interested in IoT, IIoT, Industrial Automation, led-programming, daq hw & sw, sensordevelopment, ML, MCs, Softwaretesting   
 - 🌱 I’m currently learning ISTQB-Testing, programming led-effects for UI/UX projects, object orientation in IEC 61131-3 and c++ for esp32 projects.
 - 💞️ I’m looking to collaborate on design thinking ideas and encouraging leadership
 - 📫 How to reach me <a href="majamaja.de">majamaja.de</a>
